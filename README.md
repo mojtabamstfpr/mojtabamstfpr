@@ -24,12 +24,6 @@ Here are some of my open-source and personal projects:
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mojtabamstfpr&theme=radical&no-frame=true&column=7" />
-</p>
-
----
 
 ### 🐍 Contribution Snake Animation:
 <p align="center">
@@ -38,8 +32,11 @@ Here are some of my open-source and personal projects:
 
 ---
 
-### 🌌 GitHub Skyline (3D):
-🚀 Check out my **[GitHub Skyline](https://skyline.github.com/mojtabamstfpr/2024)** – A 3D visualization of my GitHub activity!
+### 🐍 Contribution Snake Animation:
+<p align="center">
+  <img src="https://github.com/mojtabamstfpr/mojtabamstfpr/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ---
 
