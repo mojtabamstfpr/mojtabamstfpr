@@ -6,11 +6,21 @@
 
 ---
 
-### 📌 About Me:
-- 💻 Passionate about web development & open-source projects
-- 🚀 Constantly learning and exploring new technologies
-- 🛠️ Working with **React, Next.js, Node.js, Tailwind, Python**
-- 🎯 Currently improving my skills in **AI & Cloud Computing**
+### 🧑‍💻 About Me:
+- 🎓 **Computer Engineering graduate from Tabriz University**.
+- 👨‍💻 **Full-Stack Developer** with a passion for web technologies and open-source contributions.
+- 💡 Always exploring new technologies and seeking creative solutions.
+- 🔥 Focused on **React, Next.js, Node.js, Tailwind, Python & Cloud Computing**.
+- 🎯 Interested in **AI, blockchain, and decentralized applications**.
+- 🎨 I also have an eye for **UI/UX design and front-end animations**.
+
+---
+
+### 🚀 Featured Projects:
+Here are some of my open-source and personal projects:
+- 🛠 **[Project 1](#)** – Brief description of the project.
+- 🌍 **[Project 2](#)** – Brief description of the project.
+- 📱 **[Project 3](#)** – Brief description of the project.
 
 ---
 
