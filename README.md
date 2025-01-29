@@ -27,13 +27,6 @@ Here are some of my open-source and personal projects:
 
 ### 🐍 Contribution Snake Animation:
 <p align="center">
-  <img src="https://github.com/mojtabamstfpr/mojtabamstfpr/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation:
-<p align="center">
   <img src="https://github.com/mojtabamstfpr/mojtabamstfpr/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
